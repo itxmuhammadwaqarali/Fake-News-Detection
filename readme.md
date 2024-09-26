@@ -40,7 +40,7 @@ Please refer to the `requirements.txt` file for a complete list of dependencies.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/fake-news-detection.git
+    git clone https://github.com/itxmuhammadwaqarali/fake-news-detection.git
     cd fake-news-detection
     ```
 
